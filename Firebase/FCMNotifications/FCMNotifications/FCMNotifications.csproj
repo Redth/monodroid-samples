@@ -85,34 +85,34 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Android.Arch.Core.Common">
-      <Version>1.0.0.1</Version>
+      <Version>1.1.1.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Arch.Lifecycle.Common">
-      <Version>1.0.3.1</Version>
+      <Version>1.1.1.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Arch.Lifecycle.Runtime">
-      <Version>1.0.3.1</Version>
+      <Version>1.1.1.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Annotations">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Compat">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Core.UI">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Core.Utils">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Fragment">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Media.Compat">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.v4">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Build.Download">
       <Version>0.4.11</Version>

@@ -98,12 +98,12 @@
     <PackageReference Include="Xamarin.Android.Support.v4" Version="28.0.0.1" />
     <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="28.0.0.1" />
     <PackageReference Include="Xamarin.Android.Support.Vector.Drawable" Version="28.0.0.1" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Base" Version="60.1142.0" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Basement" Version="60.1142.0" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Plus" Version="60.1142.0" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Tasks" Version="60.1142.0" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Auth.Api.Phone" Version="60.1142.0" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Auth.Base" Version="60.1142.0" />
-    <PackageReference Include="Xamarin.GooglePlayServices.Auth" Version="60.1142.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Base" Version="71.1501.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Basement" Version="71.1501.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Plus" Version="71.1501.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Tasks" Version="71.1501.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Auth.Api.Phone" Version="71.1600.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Auth.Base" Version="71.1600.0" />
+    <PackageReference Include="Xamarin.GooglePlayServices.Auth" Version="71.1600.0" />
   </ItemGroup>
 </Project>
